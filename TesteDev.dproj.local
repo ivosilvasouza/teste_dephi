@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/26 09:55:15.000.801,=C:\Users\ti.desenvolvedor02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 09:59:57.000.114,C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Principal.pas=C:\Users\ti.desenvolvedor02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 09:59:57.000.114,C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Principal.dfm=C:\Users\ti.desenvolvedor02\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/26 10:00:40.000.429,C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\TesteDev.dproj=C:\Users\ti.desenvolvedor02\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/26 10:00:51.000.182,=C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 10:01:36.000.084,C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\DM.dfm=C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Unit1.dfm</Transaction>
+    <Transaction>2021/08/26 10:01:36.000.084,C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\DM.pas=C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 10:08:23.000.089,=C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 10:09:18.000.557,C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Pedidos.dfm=C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Unit1.dfm</Transaction>
+    <Transaction>2021/08/26 10:09:18.000.557,C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Pedidos.pas=C:\Users\ti.desenvolvedor02\Desktop\Documentos\Pessoal\TesteDev_New\Unit1.pas</Transaction>
+    <Transaction>2021/11/10 22:04:55.000.382,C:\Testedev-main\TesteDev.dproj=C:\Teste\TesteDev.dproj</Transaction>
+    <Transaction>2021/11/10 22:05:19.000.348,C:\Testedev-main\Principal.dfm=C:\Teste\Principal.dfm</Transaction>
+    <Transaction>2021/11/10 22:05:19.000.348,C:\Testedev-main\Principal.pas=C:\Teste\Principal.pas</Transaction>
+    <Transaction>2021/11/10 22:05:29.000.495,C:\Testedev-main\Pedidos.dfm=C:\Teste\Pedidos.dfm</Transaction>
+    <Transaction>2021/11/10 22:05:29.000.495,C:\Testedev-main\Pedidos.pas=C:\Teste\Pedidos.pas</Transaction>
+    <Transaction>2021/11/10 22:05:41.000.061,C:\Testedev-main\DM.pas=C:\Teste\DM.pas</Transaction>
+    <Transaction>2021/11/10 22:05:41.000.061,C:\Testedev-main\DM.dfm=C:\Teste\DM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
